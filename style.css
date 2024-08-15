@@ -1,0 +1,45 @@
+.content-nuevaNota{
+    background-color: #ffc107;
+}
+h1{
+    text-align: center;
+}
+
+.tachado {
+    text-decoration: line-through;
+}
+
+.content-input{
+    background-color: grey;
+}
+
+.footer{
+    background-color: red;
+}
+
+.footer h1{
+    color: white;
+}
+
+.header {
+    background-color: red;
+    height: 100px;
+}
+
+.header h1 {
+    color: white;
+}
+
+.body {
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.body-content {
+    flex: 1;
+}
+
+.imagen-menu{
+    height: 100px;
+    width: 100px;
+}
